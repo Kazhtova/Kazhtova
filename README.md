@@ -35,10 +35,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazhtova&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazhtova&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazhtova&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
