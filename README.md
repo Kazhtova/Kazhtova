@@ -23,10 +23,10 @@
 
 ### ⚡ About Me
 
--  **Focus:** Robust backend architectures, RESTful API design, and modern headless systems.
+-  **Focus:** Backend Architectures, API design, and modern headless systems, Devops operation.
 -  **Current Stack:** Laravel, Next.js, PostgreSQL, Docker, and workflow automation via n8n.
--  **Philosophy:** Writing clean, testable, and production-ready code with an emphasis on performance and security.
--  **Constantly Learning:** Systems design, microservices, and modern frontend paradigms.
+-  **Philosophy:** Crafting clean, robust, and production-ready systems.
+-  **Continuous Learning:** Systems design, microservices, and modern backend paradigms.
 
 ---
 
