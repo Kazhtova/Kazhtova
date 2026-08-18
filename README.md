@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Kanzho 
-### Backend-Heavy Dev-Ops Engineer
+### Backend - DevOps Engineer
 
 *Discipulus Per Totam Vitam — Pembelajar Seumur Hidup & continuous mastery.*
 
