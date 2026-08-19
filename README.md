@@ -26,7 +26,7 @@
 -  **Focus:** Backend Architectures, API design, and modern headless systems, Devops operation.
 -  **Current Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, and workflow automation via n8n.
 -  **Philosophy:** Crafting clean, robust, and production-ready systems.
--  **Continuous Learning:** Systems design, microservices, and modern backend paradigms.
+-  **Continuous Learning:** Systems design, microservices, and scalable backend paradigms.
 
 ---
 
