@@ -3,7 +3,7 @@
 # Hi there, I'm Kanzho 
 ### Backend - DevOps Engineer
 
-*Discipulus Per Totam Vitam — Pembelajar Seumur Hidup & continuous mastery.*
+*Pembelajar Seumur Hidup & continuous mastery.*
 
 <br/>
 
