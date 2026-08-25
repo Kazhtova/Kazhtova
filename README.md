@@ -33,5 +33,5 @@
 ### 📊 Contribution & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kazhtova/Kazhtova/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com/?user=Kazhtova&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
