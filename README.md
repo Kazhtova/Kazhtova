@@ -25,19 +25,12 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&width=435&lines=Backend+%26+Full-Stack+Engineer;Laravel+%2B+Next.js+Architect;Automating+Workflows+with+n8n;Crafting+Production-Ready+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+%26+Full-Stack+Engineer;Designing+Scalable+Laravel+%2B+Next.js+Systems;Automating+Orchestrations+via+n8n;Crafting+Production-Grade+Architectures" alt="Typing SVG" />
   </a>
 </p>
 
-* 🛠️ **Core Focus:** High-throughput Backend Architecture, REST/GraphQL API Design & Headless Ecosystems
-* 🚀 **Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, Redis & n8n
-* 💡 **Engineering Mindset:** Clean architecture, SOLID principles, and maintainable production-grade code
-* 📈 **Exploring:** Distributed Systems, Microservices, and Event-Driven Architecture
-
----
-
-### 📊 Contribution & Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazhtova&theme=github_dark" alt="Profile Summary" />
-</div>
+```yaml
+role: "Backend & Systems Engineer"
+specialization: ["High-Throughput APIs", "Headless Architecture", "Workflow Automation"]
+engineering_standards: ["SOLID Principles", "Domain-Driven Design", "Clean Architecture", "CI/CD"]
+current_pursuits: ["Distributed Systems", "Event-Driven Architecture", "System Scalability"]
