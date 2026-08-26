@@ -36,10 +36,10 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 🛠️ Tech Stack & Tooling
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-snake.svg">
-</picture>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,php,ts,postgres,docker,redis,postman,git,linux&theme=dark" />
+  </a>
+</p>
