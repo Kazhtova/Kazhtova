@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=dracula&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=onedark&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48.5%" />
 </div> 
 
 
