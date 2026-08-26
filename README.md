@@ -39,5 +39,8 @@
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak" width="48.5%" />
-</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=dark&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48.5%" />
+</div> 
+
+
