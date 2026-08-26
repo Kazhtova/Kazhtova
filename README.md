@@ -40,14 +40,14 @@
 
 <div align="center">
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazhtova&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazhtova&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username_kamu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ### 📈 Contribution Graph (Activity Overview)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username_kamu&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazhtova&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
 </div>
 
 ---
