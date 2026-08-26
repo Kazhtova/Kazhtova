@@ -38,8 +38,9 @@
 
 ### 📊 GitHub Analytics & Stats
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazhtova&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" width="48.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazhtova&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="48.5%" />
 </div>
 
 ---
