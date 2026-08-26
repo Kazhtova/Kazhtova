@@ -39,7 +39,7 @@
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazhtova&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Stats" width="48.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kazhtova&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Stats" width="48.5%" />
 </div>
 
 ---
