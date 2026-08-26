@@ -33,5 +33,5 @@
 ### 📊 Contribution & Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Kazhtova&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kazhtova/Kazhtova/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
