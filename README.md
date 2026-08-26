@@ -21,7 +21,7 @@
 
 <br/>
 
-### ⚡ About Me
+### About Me
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -29,10 +29,10 @@
   </a>
 </p>
 
-* 🛠️ **Core Focus:** High-throughput Backend Architecture, REST/GraphQL API Design & Headless Ecosystems
-* 🚀 **Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, Redis & n8n
-* 💡 **Engineering Mindset:** Clean architecture, SOLID principles, and maintainable production-grade code
-* 📈 **Exploring:** Distributed Systems, Microservices, and Event-Driven Architecture
+* **Core Focus:** High-throughput Backend Architecture, REST/GraphQL API Design & Headless Ecosystems
+* **Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, Redis & n8n
+* **Engineering Mindset:** Clean architecture, SOLID principles, and maintainable production-grade code
+* **Exploring:** Distributed Systems, Microservices, and Event-Driven Architecture
 
 ---
 
