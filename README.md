@@ -33,5 +33,5 @@
 ### 📊 Contribution & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazhtova&theme=github-dark&hide_border=true&area=true&v=1" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazhtova&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
