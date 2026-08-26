@@ -33,5 +33,5 @@
 ### 📊 Contribution & Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazhtova&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazhtova&theme=github-dark&hide_border=true&area=true&v=1" alt="Activity Graph" width="100%" />
 </div>
