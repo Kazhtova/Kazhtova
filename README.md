@@ -40,6 +40,4 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48.5%" />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazhtova&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
