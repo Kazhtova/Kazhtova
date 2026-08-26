@@ -23,10 +23,16 @@
 
 ### ⚡ About Me
 
--  **Focus:** Backend Architectures, API design, and modern headless systems, Devops operation.
--  **Current Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, and workflow automation via n8n.
--  **Philosophy:** Crafting clean, robust, and production-ready systems.
--  **Continuous Learning:** Systems design, microservices, and scalable backend paradigms.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&width=435&lines=Backend+%26+Full-Stack+Engineer;Laravel+%2B+Next.js+Architect;Automating+Workflows+with+n8n;Crafting+Production-Ready+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+* 🛠️ **Core Focus:** High-throughput Backend Architecture, REST/GraphQL API Design & Headless Ecosystems
+* 🚀 **Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, Redis & n8n
+* 💡 **Engineering Mindset:** Clean architecture, SOLID principles, and maintainable production-grade code
+* 📈 **Exploring:** Distributed Systems, Microservices, and Event-Driven Architecture
 
 ---
 
