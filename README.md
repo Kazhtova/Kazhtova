@@ -29,13 +29,13 @@
   </a>
 </p>
 
-Aspiring Software Engineer | Backend & Distributed Systems Enthusiast
+Software Engineering Student | Backend & FullSatck Developer
 
-I am a software engineering student focused on building high-throughput backend architectures and robust headless ecosystems. My core development stack centers around Laravel, Next.js, PostgreSQL, Docker, and Redis, with learning workflow automation using n8n.
+I am a software engineering student who loves building fast, reliable, and scalable web applications. I specialize in developing solid backend systems and connecting them seamlessly to modern user interfaces using Laravel, Next.js, PostgreSQL, Docker, and Redis, while streamlining tasks with n8n automation.
 
-Driven by a clean-code mindset, I actively apply SOLID principles and architectural best practices to deliver maintainable, production-ready systems. Currently, I am expanding my technical scope into Distributed Systems, Microservices, and Event-Driven Architectures.
+I focus on writing clean, well-structured, and easy-to-maintain code that is ready for real-world production. Constantly learning, I am currently exploring how to design large-scale systems and interconnected web services.
 
-Always eager to tackle challenging problems, contribute to impactful projects, and explore internship opportunities.
+Always excited to take on challenging projects, collaborate with teams, and open to internship opportunities.
 
 ---
 
