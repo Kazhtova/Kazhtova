@@ -29,10 +29,13 @@
   </a>
 </p>
 
-* **Core Focus:** High-throughput Backend Architecture, API Design & Headless Ecosystems
-* **Tech Stack:** Laravel, Next.js, PostgreSQL, Docker, Redis & n8n
-* **Engineering Mindset:** Clean architecture, SOLID principles, and maintainable production-grade code
-* **Exploring:** Distributed Systems, Microservices, and Event-Driven Architecture
+Aspiring Software Engineer | Backend & Distributed Systems Enthusiast
+
+I am a software engineering student focused on building high-throughput backend architectures and robust headless ecosystems. My core development stack centers around Laravel, Next.js, PostgreSQL, Docker, and Redis, with learning workflow automation using n8n.
+
+Driven by a clean-code mindset, I actively apply SOLID principles and architectural best practices to deliver maintainable, production-ready systems. Currently, I am expanding my technical scope into Distributed Systems, Microservices, and Event-Driven Architectures.
+
+Always eager to tackle challenging problems, contribute to impactful projects, and explore internship opportunities.
 
 ---
 
