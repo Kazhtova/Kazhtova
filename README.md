@@ -39,7 +39,7 @@ Always excited to take on challenging projects, collaborate with teams, and open
 
 ---
 
-### 📊 GitHub Analytics & Stats
+### GitHub Analytics & Stats
 
 <div align="center">
 
