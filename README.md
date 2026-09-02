@@ -31,7 +31,7 @@
 
 Software Engineering Student | Backend & Fullstack Developer
 
-I am a software engineering student who loves building fast, reliable, and scalable web applications. I specialize in developing solid backend systems and connecting them seamlessly to modern user interfaces using Laravel, Next.js, PostgreSQL, Docker, and Redis, while streamlining tasks with n8n automation.
+I am a software engineering student who loves building fast, reliable, and scalable program. I specialize in developing solid backend systems and connecting them seamlessly to modern user interfaces using Laravel, Next.js, PostgreSQL, Docker, and Redis, while streamlining tasks with n8n automation.
 
 I focus on writing clean, well-structured, and easy-to-maintain code that is ready for real-world production. Constantly learning, I am currently exploring how to design large-scale systems and interconnected web services.
 
