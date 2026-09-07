@@ -28,7 +28,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&width=450&lines=Backend+%26+DevOps+Engineer;Laravel+%2B+Next.js+Fullstack+Engineer;Automating+Workflows+with+n8n;Develop+Production-Ready+Systems" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- Description -->
 Software Engineering Student | Backend & Fullstack Developer
 
 I am a software engineering student who loves building fast, reliable, and scalable program. I specialize in developing solid backend systems and connecting them seamlessly to modern user interfaces using Laravel, Next.js, PostgreSQL, Docker, and Redis, while streamlining tasks with n8n automation.
