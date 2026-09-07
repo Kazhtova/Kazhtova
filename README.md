@@ -38,7 +38,7 @@ I focus on writing clean, well-structured, and easy-to-maintain code that is rea
 Always excited to take on challenging projects, collaborate with teams, and open to internship opportunities.
 
 ---
-<!--  -->
+<!-- Github Stats -->
 ### GitHub Analytics & Stats
 
 <div align="center">
