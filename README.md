@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Introduction -->
 # Hi there, I'm Kanzho 
-### Backend - DevOps Engineer
+### Backend & DevOps Engineer
 
 *Pembelajar Seumur Hidup & continuous mastery.*
 
