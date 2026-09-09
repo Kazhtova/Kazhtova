@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Introduction -->
-<p><strong><font size="+10">Hi there, I'm Kanzho</font></strong></p>
+<h1>Hi there, I'm Kanzho</h1>
 <h3>Backend & DevOps Engineer</h3>
 
 *Pembelajar Seumur Hidup & continuous mastery.*
