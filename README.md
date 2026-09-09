@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Introduction -->
-# Hi there, I'm Kanzho 
+<h1>Hi there, I'm Kanzho</h1>
 ### Backend & DevOps Engineer
 
 *Pembelajar Seumur Hidup & continuous mastery.*
