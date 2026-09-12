@@ -21,7 +21,6 @@
 <br/>
 
 ### About Me
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&width=450&lines=Backend+%26+DevOps+Engineer;Laravel+%2B+Next.js+Fullstack+Engineer;Automating+Workflows+with+n8n;Develop+Production-Ready+Systems" alt="Typing SVG" />
@@ -48,6 +47,4 @@ Always excited to take on challenging projects, collaborate with teams, and open
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazhtova&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazhtova&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdf8&point=38bdf8&area=true" alt="Contribution Graph" width="98%" />
 </div>
