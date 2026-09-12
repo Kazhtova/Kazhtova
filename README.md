@@ -46,6 +46,6 @@ Always excited to take on challenging projects, collaborate with teams, and open
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazhtova&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48.5%" />
 </div> 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_ANDA&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazhtova&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
