@@ -8,6 +8,9 @@
   <br/><br/>
 
   <!-- Skills Badges -->
+
+### Tech Stack & Ecosystem
+  
   <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,next,react,linux,docker,n8n,python,postgresql,nodejs&perline=10" alt="Tech Stack" />
   </p>
