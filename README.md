@@ -4,12 +4,9 @@
   <h3>Backend & DevOps Engineer</h3>
 
   <em>Pembelajar Seumur Hidup & continuous mastery.</em>
-
-  <br/><br/>
-
+  
   <!-- Skills Badges -->
-
-### Tech Stack & Ecosystem
+  ### Tech Stack & Ecosystem
   
   <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,next,react,linux,docker,n8n,python,postgresql,nodejs&perline=10" alt="Tech Stack" />
