@@ -29,8 +29,8 @@
 </p>
 
 *Software Engineering Student | Backend & Fullstack Developer*
-
 <br/>
+
 I am a Software Engineering student focused on building resilient backend architectures, decoupled systems, and automated pipelines. 
 
 * **Core Focus:** Architecting robust APIs with Laravel, pairing headless backends with Next.js, and implementing ACID-compliant relational schemas.
