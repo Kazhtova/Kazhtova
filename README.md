@@ -28,7 +28,7 @@
   </a>
 </p>
 
-Software Engineering Student | Backend & Fullstack Developer
+*Software Engineering Student | Backend & Fullstack Developer*
 
 <br/>
 
