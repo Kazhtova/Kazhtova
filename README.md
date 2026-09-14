@@ -29,6 +29,7 @@
 </p>
 
 *Software Engineering Student | Backend & Fullstack Developer*
+
 <br/>
 
 I am a Software Engineering student focused on building resilient backend architectures, decoupled systems, and automated pipelines. 
