@@ -20,7 +20,7 @@
 
 <br/>
 
-### About Me....
+### About Me
 
 <p align="left">
   <a href="https://git.io/typing-svg">
