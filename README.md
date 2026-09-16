@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Introduction -->
-  <h1>Hi there, I'm Kanzho</h1>
-  <h3>Backend & DevOps Engineer</h3>
+  <h1>Hi there, I'm Kanzho</h1>.
+  <h3>Backend & DevOps Engineer</h3>.
 
-  <em>Pembelajar Seumur Hidup & continuous mastery</em>
+  <em>Pembelajar Seumur Hidup & continuous mastery</em>.
   
   <!-- Skills Badges -->
   ### Tech Stack & Ecosystem
