@@ -5,8 +5,6 @@
 
   <em>Pembelajar Seumur Hidup & continuous mastery</em>
 
-  ---
-
   ### Tech Stack & Ecosystem
   <!-- Skills Badges -->
   <p align="center">
