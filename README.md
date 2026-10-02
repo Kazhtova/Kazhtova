@@ -51,5 +51,9 @@ I am a Software Engineering student focused on building resilient backend archit
 </div>
 
 <p align="center">
+  <img width="100%" src="https://gitskins.com/api/readme-reference/divider?username=kazhtova&theme=neon&v=readme-reference-2" alt="GitSkins Neon Divider" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://www.gitskins.com/api/section/social?username=kazhtova&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Social" />
 </p>
