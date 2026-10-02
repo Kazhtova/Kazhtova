@@ -48,4 +48,4 @@ I am a Software Engineering student focused on building resilient backend archit
 
 ![Snake animation](https://github.com/Kazhtova/Kazhtova/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
-[![Kazhtova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazhtova&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Retro Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kazhtova&theme=retro-dark)](https://github.com/ashutosh00712/github-readme-activity-graph)
