@@ -2,7 +2,7 @@
 <!-- Introduction -->
   
 <p align="center">
-  <img src="https://gitskins.com/api/section/wordmark?username=kazhtova&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Wordmark Terminal" />
+  <img src="https://gitskins.com/api/section/wordmark?username=kazhtova&theme=github-dark&style=aura&align=center&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Wordmark Terminal Centered" />
 </p>
 
   <h3>Backend & DevOps Engineer</h3>
