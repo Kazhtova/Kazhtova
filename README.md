@@ -23,18 +23,14 @@
 
 <br/>
 
-### About Me
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=18&duration=3000&pause=1000&color=7DD3FC&width=500&lines=Backend+%26+DevOps+Engineer;Laravel+%2B+Next.js+Fullstack+Engineer;Engineering+Scalable+%26+Resilient+Systems;Exploring+IoT+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
-*Software Engineering Student | Backend & Fullstack Developer*
-
 <br/>
 
-I am a Software Engineering student focused on building resilient backend architectures, decoupled systems, and automated pipelines. 
+*Software Engineering Student | Backend & Fullstack Developer*
 
 * **Core Focus:** Architecting robust APIs with Laravel, pairing headless backends with Next.js, and implementing ACID-compliant relational schemas.
 * **Infrastructure & Automation:** Containerizing micro-services with Docker/Podman, managing Linux environments, and streamlining integrations via n8n workflows.
