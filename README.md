@@ -47,9 +47,3 @@ I am a Software Engineering student focused on building resilient backend archit
 </div>
 
 ![Snake animation](https://github.com/Kazhtova/Kazhtova/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
-
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=KAZHTOVA;BACKEND+DEVELOPER;LARAVEL+%2B+NEXT.JS)
-
-<p align="center">
-  <img src="https://gitskins.vercel.app/api?username=Kazhtova&theme=aurora&title=Kashka%20Octora%20Pratama&description=Software%20Engineering%20Student%20%7C%20Backend%20Developer&tech=Laravel,Next.js,PHP,TypeScript" alt="GitSkins Header" />
-</p>
