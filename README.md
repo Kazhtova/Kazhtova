@@ -6,7 +6,7 @@
 </p>
 
 <<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=kazhtova&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&variant=living-identity&label=Kanzho&v=wow-living-identity-1&mode=dark&greeting=Welcome+to+my+profile&tech=Laravel,Next.js,PHP,TypeScript&location=Surabaya" alt="GitSkins Living Identity Hero Header" />
+  <img src="https://www.gitskins.com/api/section/hero?username=kazhtova&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&variant=living-identity&label=Kanzho&v=wow-living-identity-1&mode=dark&greeting=iiie&tech=Laravel,Next.js,PHP,TypeScript&location=Surabaya" alt="GitSkins Living Identity Hero Header" />
 </p>
 
   <h3>Backend & DevOps Engineer</h3>
