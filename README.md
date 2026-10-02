@@ -23,7 +23,7 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=18&duration=3000&pause=1000&color=7DD3FC&width=500&lines=Backend+%26+DevOps+Engineer;Laravel+%2B+Next.js+Fullstack+Engineer;Engineering+Scalable+%26+Resilient+Systems;Exploring+IoT+%26+Cybersecurity" alt="Typing SVG" />
 </p>
