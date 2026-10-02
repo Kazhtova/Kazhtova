@@ -47,3 +47,5 @@ I am a Software Engineering student focused on building resilient backend archit
 </div>
 
 ![Snake animation](https://github.com/Kazhtova/Kazhtova/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KAZHTOVA&fontSize=70&animation=fadeIn)
