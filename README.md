@@ -66,3 +66,23 @@ I am a Software Engineering student focused on building resilient backend archit
 </td>
 </tr>
 </table>
+
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kazhtova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kazhtova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kanzho technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
