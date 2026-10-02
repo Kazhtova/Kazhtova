@@ -47,4 +47,6 @@ I am a Software Engineering student focused on building resilient backend archit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazhtova&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48%" />
 </div>
 
-![GitSkins Hero Header](https://www.gitskins.com/api/section/hero?username=kazhtova&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4)
+<p align="center">
+  <img width="100%" src="https://www.gitskins.com/api/section/hero?username=kazhtova&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Hero Header" />
+</p>
