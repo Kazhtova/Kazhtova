@@ -47,10 +47,3 @@ I am a Software Engineering student focused on building resilient backend archit
 </div>
 
 ![Snake animation](https://github.com/Kazhtova/Kazhtova/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kazhtova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=kazhtova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kanzho technology stack" />
-</picture>
-</p>
