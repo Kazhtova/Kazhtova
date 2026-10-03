@@ -5,7 +5,7 @@
   <img src="https://gitskins.com/api/section/wordmark?username=kazhtova&theme=github-dark&style=aura&align=center&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Wordmark Terminal Centered" />
 </p>
 
-  <h3>Backend & DevOps Engineer</h3>
+  <h3>Backend - DevOps Engineer</h3>
 
   <em>Pembelajar Seumur Hidup & continuous mastery</em>
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-*Software Engineering Student | Backend & Fullstack Developer*
+*Software Engineering Student | Vocational High School*
 
 * **Core Focus:** Architecting robust APIs with Laravel, pairing headless backends with Next.js, and implementing ACID-compliant relational schemas.
 * **Infrastructure & Automation:** Containerizing micro-services with Docker/Podman, managing Linux environments, and streamlining integrations via n8n workflows.
