@@ -9,7 +9,7 @@
   <em>Pembelajar Seumur Hidup & continuous mastery</em>
 
   ### Tech Stack & Ecosystem
-<!-- Tech Stack -->
+
   <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,next,react,linux,podman,githubactions,python,postgresql,nodejs&perline=10" alt="Tech Stack" />
   </p>
