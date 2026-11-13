@@ -14,10 +14,6 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,linux,docker,githubactions,python,postgres,nodejs&perline=10" alt="Tech Stack" />
 </p>
 
-  <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,next,react,linux,podman,githubactions,python,postgresql,nodejs&perline=10" alt="Tech Stack" />
-  </p>
-
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:kakareceive@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -48,6 +44,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazhtova&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="Streak" width="48%" />
 </div>
+
+<p align="center">
+  <img width="100%" src="https://www.gitskins.com/api/section/tape-log?username=kazhtova&theme=github-dark&mode=dark&v=2026-11-11&pv=SGJeOQ_kQyTpEaH2" alt="GitSkins Tape Log" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://gitskins.com/api/readme-reference/divider?username=kazhtova&theme=neon&v=readme-reference-2" alt="GitSkins Neon Divider" />
