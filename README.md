@@ -46,10 +46,6 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/tape-log?username=kazhtova&theme=github-dark&mode=dark&v=2026-11-11&pv=SGJeOQ_kQyTpEaH2" alt="GitSkins Tape Log" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://gitskins.com/api/readme-reference/divider?username=kazhtova&theme=neon&v=readme-reference-2" alt="GitSkins Neon Divider" />
 </p>
 
