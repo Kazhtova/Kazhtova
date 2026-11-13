@@ -11,7 +11,7 @@
   ### Tech Stack & Ecosystem
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,linux,podman,githubactions,python,postgres,nodejs&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,linux,docker,githubactions,python,postgres,nodejs&perline=10" alt="Tech Stack" />
 </p>
 
   <p align="center">
@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/social?username=kazhtova&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4" alt="GitSkins Social" />
+  <img width="100%" src="https://www.gitskins.com/api/section/pixel-room?username=kazhtova&mode=dark&v=2026-11-11&pv=SGJeOQ_kQyTpEaH2" alt="GitSkins Pixel Room" />
 </p>
