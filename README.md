@@ -11,6 +11,10 @@
   ### Tech Stack & Ecosystem
 
   <p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,linux,podman,githubactions,python,postgres,nodejs&perline=10" alt="Tech Stack" />
+</p>
+
+  <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,next,react,linux,podman,githubactions,python,postgresql,nodejs&perline=10" alt="Tech Stack" />
   </p>
 
