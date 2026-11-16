@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=kazhtova&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145176805%3Fu%3D2b8cd1ddeee77186f8aa25b73f1728c27d68d558%26v%3D4&pv=KkwgBaiUteTPqzND" alt="GitSkins City Centered" />
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="GitHub Profile GIF" />
 </p>
 
   <h3>Backend - DevOps Engineer</h3>
